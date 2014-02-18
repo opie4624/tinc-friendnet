@@ -16,3 +16,4 @@ FriendNET management interface for use with tinc
 * make dns entries for in-network resolution or hosts file the cli/cron can update
   * akraut-lance.friendnet
 * nodes named username-nodename
+* allows users to make nodes into "super nodes" (connect lines added)
