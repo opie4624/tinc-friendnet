@@ -10,6 +10,7 @@ FriendNET management interface for use with tinc
 * cli/cron tool to update existing configs
 * Can we generate RSA Keys or must tincd do it?
   * Should we generate the private key or just accept submission of the public?
+  * tinc 1.1 has invite/join commands which might make this process easier
 * track who invited who
 * perhaps require some network consensus or voting on invited people
   * may only work once the user base is larger
